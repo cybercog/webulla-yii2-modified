@@ -6,7 +6,7 @@
  * Time: 19:40
  */
 
-namespace modified\widgets;
+namespace wbl\modified\widgets;
 
 use Yii;
 use yii\base\Widget;

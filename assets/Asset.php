@@ -6,7 +6,7 @@
  * Time: 0:59
  */
 
-namespace modified\assets;
+namespace wbl\modified\assets;
 
 use yii\web\AssetBundle;
 
